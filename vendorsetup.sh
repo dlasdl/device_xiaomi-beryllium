@@ -1,3 +1,3 @@
-add_lunch_combo aosp_beryllium-user
-add_lunch_combo aosp_beryllium-userdebug
-add_lunch_combo aosp_beryllium-eng
+add_lunch_combo dot_beryllium-user
+add_lunch_combo dot_beryllium-userdebug
+add_lunch_combo dot_beryllium-eng
